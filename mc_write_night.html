@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Skriv et digt</title>
+    
+    <link rel="stylesheet" href="../library/css/styles.css" type="text/css" />
+    <link rel="stylesheet" href="mc_write_night.css" type="text/css" />
+    <meta name="author" content="ato" />
+</head>
+
+<body>
+    <div class="container-fluid">
+        <h1>Skriv et digt</h1>
+        <div id="instructionWrap">
+<!-- 
+            <h4 class="instruktion col-xs-12 col-md-8">
+                <span class="glyphicon glyphicon-arrow-right"></span>
+                Jeres gruppe skal skrive et digt. I skal bruge alle 5 kategorier.
+            </h4>
+  -->           
+        </div>
+        <div class="col-xs-12 gui_container">
+            <div class="btn btn-lg btn-info btn_bland">BLAND KATEGORIER</div>
+            <div class="tid_container h4">
+                <p class="p_tid">Angiv minutter:</p>
+                <input class="txt_tid" type="text" maxlength="2" size="2" value="10"></input>
+                <div id="clock"></div>
+            </div>
+            <div class="btn btn-primary btn-lg btn_start_tid">START NEDTÆLLING</div>
+        </div>
+        <div class="col-xs-12 kategori_container"></div>
+    </div>
+</body>
+<script src="../library/vendor_scripts.js"></script>
+<script src="../library/custom_scripts.js"></script>
+<script src="../library/js/countdowntimer.js"></script>
+<script src="mc_write_night.js"></script>
+<script>
+loadData("json/mc_write_night.json");
+$(document).ready(function() {
+    one_line_footer();
+});
+</script>
+
+</html>

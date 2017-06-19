@@ -1,0 +1,27 @@
+{
+    "userInterface": {
+        "header": "MC write night - skriv på et Digt på tid",
+        "instruktion": "Jeres gruppe skal skrive en anmeldelse. I skal bruge alle 5 kategorier."
+    },
+    "kategorier": [{
+
+        "tekst": "EMNE",
+        "imgcontent": ["img/anmeldelse/emne1.svg","img/anmeldelse/emne2.svg","img/anmeldelse/emne3.svg"]
+    }, {
+
+        "tekst": "HOLDNING",
+        "imgcontent": ["img/anmeldelse/holdning1.svg","img/anmeldelse/holdning2.svg","img/anmeldelse/holdning3.svg"]
+    }, {
+
+        "tekst": "AFSENDER",
+        "imgcontent": ["img/anmeldelse/afsender1.svg","img/anmeldelse/afsender2.svg","img/anmeldelse/afsender3.svg"]
+    }, {
+
+        "tekst": "BILLEDSPROG",
+        "imgcontent": ["img/anmeldelse/billedsprog1.svg","img/anmeldelse/billedsprog2.svg"]
+    }, {
+
+        "tekst": "PERSPEKTIVERING",
+        "imgcontent": ["img/anmeldelse/perspektivering1.svg", "img/anmeldelse/perspektivering2.svg", "img/anmeldelse/perspektivering3.svg"]
+    }]
+}

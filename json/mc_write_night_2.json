@@ -1,0 +1,27 @@
+{
+    "userInterface": {
+        "header": "MC write night - skriv et debatindlæg",
+        "instruktion": "Jeres gruppe skal skrive et debatindlæg. I skal bruge alle 5 kategorier."
+    },
+    "kategorier": [{
+
+        "tekst": "EMNE",
+        "imgcontent": ["img/debat/emne1.svg","img/debat/emne2.svg","img/debat/emne3.svg", "img/debat/emne4.svg", "img/debat/emne5.svg", "img/debat/emne6.svg"]
+    }, {
+
+        "tekst": "HOLDNING",
+        "imgcontent": ["img/debat/holdning1.svg","img/debat/holdning2.svg","img/debat/holdning3.svg","img/debat/holdning4.svg"]
+    }, {
+
+        "tekst": "APPELFORM",
+        "imgcontent": ["img/debat/appel1.svg","img/debat/appel2.svg","img/debat/appel3.svg"]
+    }, {
+
+        "tekst": "SPROG",
+        "imgcontent": ["img/debat/sprog1.svg","img/debat/sprog2.svg", "img/debat/sprog3.svg", "img/debat/sprog4.svg"]
+    }, {
+
+        "tekst": "ARGUMENTATION",
+        "imgcontent": ["img/debat/argument1.svg", "img/debat/argument2.svg", "img/debat/argument3.svg", "img/debat/argument4.svg", "img/debat/argument5.svg"]
+    }]
+}

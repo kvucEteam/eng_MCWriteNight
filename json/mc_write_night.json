@@ -1,0 +1,27 @@
+{
+    "userInterface": {
+        "header": "MC write night - skriv på et Digt på tid",
+        "instruktion": "Jeres gruppe skal skrive et digt. I skal bruge alle 5 kategorier."
+    },
+    "kategorier": [{
+
+        "tekst": "EMNE",
+        "imgcontent": ["img/digt/emne1.svg","img/digt/emne2.svg","img/digt/emne3.svg", "img/digt/emne4.svg", "img/digt/emne5.svg", "img/digt/emne6.svg"]
+    }, {
+
+        "tekst": "FORM",
+        "imgcontent": ["img/digt/form1.svg","img/digt/form2.svg","img/digt/form3.svg"]
+    }, {
+
+        "tekst": "BILLEDSPROG",
+        "imgcontent": ["img/digt/sprog1.svg","img/digt/sprog2.svg","img/digt/sprog3.svg"]
+    }, {
+
+        "tekst": "DIGTERJEG",
+        "imgcontent": ["img/digt/digter1.svg","img/digt/digter2.svg", "img/digt/digter3.svg"]
+    }, {
+
+        "tekst": "MILJØ",
+        "imgcontent": ["img/digt/miljo1.svg", "img/digt/miljo2.svg", "img/digt/miljo3.svg"]
+    }]
+}

@@ -1,0 +1,33 @@
+{
+    "userInterface": {
+        "header": "MC write night - skriv et eventyr",
+        "instruktion": "Jeres gruppe skal skrive et eventyr. I skal bruge alle 5 kategorier.",
+        "opg_type": "eventyr"
+    },
+    "kategorier": [{
+
+        "tekst": "KOMPOSITION",
+        "kat_type": "odd",
+        "imgcontent": ["img/aktant/komp1.svg", "img/aktant/komp2.svg", "img/aktant/komp3.svg", "img/aktant/komp4.svg"]
+    }, {
+
+        "tekst": "OBJEKT",
+        "imgcontent": ["img/aktant/objekt1.svg","img/aktant/objekt2.svg","img/aktant/objekt3.svg","img/aktant/objekt4.svg","img/aktant/objekt5.svg"]
+    }, {
+
+        "tekst": "EVENTYRTRÆK",
+        "kat_type": "odd",
+        "imgcontent": ["img/aktant/eventyrtraek1.svg", "img/aktant/eventyrtraek2.svg", "img/aktant/eventyrtraek3.svg", "img/aktant/eventyrtraek4.svg", "img/aktant/eventyrtraek5.svg", "img/aktant/eventyrtraek6.svg", "img/aktant/eventyrtraek7.svg"]
+    }, {
+        "tekst": "HJÆLPER",
+        "imgcontent": ["img/aktant/hjaelper1.svg", "img/aktant/hjaelper2.svg","img/aktant/hjaelper3.svg","img/aktant/hjaelper4.svg"]
+    }, {
+
+        "tekst": "SUBJEKT",
+        "imgcontent": ["img/aktant/subjekt1.svg", "img/aktant/subjekt2.svg", "img/aktant/subjekt3.svg", "img/aktant/subjekt4.svg", "img/aktant/subjekt5.svg", "img/aktant/subjekt6.svg"]
+    }, {
+
+        "tekst": "MODSTANDER",
+        "imgcontent": ["img/aktant/modstander1.svg","img/aktant/modstander2.svg","img/aktant/modstander3.svg","img/aktant/modstander4.svg","img/aktant/modstander5.svg"]
+    }]
+}

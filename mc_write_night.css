@@ -1,0 +1,111 @@
+.tid_container {
+    float: left;
+    margin-right: 15px;
+    padding-top: 10px;
+}
+
+.txt_tid {
+    margin-left: 5px;
+    border: 0px solid;
+    height: 40px;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.p_tid {
+    display: inline;
+}
+
+.btn_start_tid {
+    display: inline;
+    float: left;
+}
+
+.btn_bland {
+    display: inline;
+    float: left;
+}
+.kategori_container{
+    padding:0px;
+}
+
+.kat_obj_container {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left:0px;
+    padding: 0px;
+}
+
+#clock {
+    margin-top: 10px;
+    float: left;
+}
+
+.content_header {
+    text-align: center;
+}
+
+.glyphicon-plus-sign:before {
+    color: #D0CEC6;
+    font-size: 35px;
+}
+
+img {
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 0px;
+    width:100%;
+}
+
+.imgcontent {
+    border: 1px solid #333;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 0px;
+}
+
+.glyphicon-plus-sign:hover:before {
+    color: #555;
+}
+
+.glyph_container {
+    padding-top: 23%;
+    cursor: pointer;
+}
+
+.btn-lg {
+    margin: 20px 20px 0px 0;
+}
+
+.arrow_svg {
+    position: absolute;
+    top: 30%;
+    border-radius: 0px;
+}
+
+.arrow_0 {
+    width: 25%;
+    left: 89%;
+}
+
+.arrow_1 {
+    height: 27%;
+    top: -16%;
+    /*left: 42%;*/
+    left: 0%;
+}
+
+.arrow_2 {
+    width: 25%;
+    left: -14%;
+}
+
+.odd > .inner_container > .imgcontent {
+    border-radius: 80px;
+}
+
+.odd > .inner_container > .imgcontent > .ikon {
+    border-radius: 80px;
+}
+
+.btn_stop{float:left;margin-left: 30px;margin-top: 2px;}
