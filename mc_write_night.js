@@ -95,7 +95,7 @@ function startTimer() {
     function format(minutes, seconds) {
         minutes = minutes < 10 ? "0" + minutes : minutes;
         seconds = seconds < 10 ? "0" + seconds : seconds;
-        display.textContent = "Tid tilbage: " + minutes + ':' + seconds;
+        display.textContent = "Time left: " + minutes + ':' + seconds;
         txt_format_tid = minutes + ':' + seconds;
     }
 }
