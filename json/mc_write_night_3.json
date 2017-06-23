@@ -1,33 +1,33 @@
 {
     "userInterface": {
         "header": "MC write night - skriv et eventyr",
-        "instruktion": "Jeres gruppe skal skrive et eventyr. I skal bruge alle 5 kategorier.",
+        "instruktion": "Your group is going to write a fairy tale. You have to use all 5 categories",
         "opg_type": "eventyr"
     },
     "kategorier": [{
 
-        "tekst": "KOMPOSITION",
+        "tekst": "PLOT STRUCTURE",
         "kat_type": "odd",
-        "imgcontent": ["img/aktant/komp1.svg", "img/aktant/komp2.svg", "img/aktant/komp3.svg", "img/aktant/komp4.svg"]
+        "imgcontent": ["img/aktant/komp1.svg", "img/aktant/komp2.svg"]
     }, {
 
-        "tekst": "OBJEKT",
+        "tekst": "OBJECT (GOAL)",
         "imgcontent": ["img/aktant/objekt1.svg","img/aktant/objekt2.svg","img/aktant/objekt3.svg","img/aktant/objekt4.svg","img/aktant/objekt5.svg"]
     }, {
 
-        "tekst": "EVENTYRTRÆK",
+        "tekst": "FAIRY TALE FEATURES",
         "kat_type": "odd",
-        "imgcontent": ["img/aktant/eventyrtraek1.svg", "img/aktant/eventyrtraek2.svg", "img/aktant/eventyrtraek3.svg", "img/aktant/eventyrtraek4.svg", "img/aktant/eventyrtraek5.svg", "img/aktant/eventyrtraek6.svg", "img/aktant/eventyrtraek7.svg"]
+        "imgcontent": ["img/aktant/eventyrtraek1.svg", "img/aktant/eventyrtraek2.svg", "img/aktant/eventyrtraek3.svg", "img/aktant/eventyrtraek4.svg", "img/aktant/eventyrtraek5.svg", "img/aktant/eventyrtraek6.svg"]
     }, {
-        "tekst": "HJÆLPER",
+        "tekst": "HELPER",
         "imgcontent": ["img/aktant/hjaelper1.svg", "img/aktant/hjaelper2.svg","img/aktant/hjaelper3.svg","img/aktant/hjaelper4.svg"]
     }, {
 
-        "tekst": "SUBJEKT",
+        "tekst": "SUBJECT / MAIN CHARACTER",
         "imgcontent": ["img/aktant/subjekt1.svg", "img/aktant/subjekt2.svg", "img/aktant/subjekt3.svg", "img/aktant/subjekt4.svg", "img/aktant/subjekt5.svg", "img/aktant/subjekt6.svg"]
     }, {
 
-        "tekst": "MODSTANDER",
+        "tekst": "OPPONENT",
         "imgcontent": ["img/aktant/modstander1.svg","img/aktant/modstander2.svg","img/aktant/modstander3.svg","img/aktant/modstander4.svg","img/aktant/modstander5.svg"]
     }]
 }
