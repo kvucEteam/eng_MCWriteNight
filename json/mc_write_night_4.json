@@ -1,23 +1,23 @@
 {
     "userInterface": {
-        "header": "MC write night - skriv på et Digt på tid",
-        "instruktion": "Jeres gruppe skal skrive en undskyldning. I skal bruge alle 5 kategorier."
+        "header": "MC write night -  write an apology",
+        "instruktion": "Your group is going to write an apology. You have to use all 5 categories."
     },
     "kategorier": [{
 
-        "tekst": "EMNE",
+        "tekst": "THEME",
         "imgcontent": ["img/undskyld/emne1.svg","img/undskyld/emne2.svg","img/undskyld/emne3.svg"]
     }, {
 
-        "tekst": "PERSON",
+        "tekst": "APOLOGISER",
         "imgcontent": ["img/undskyld/person1.svg","img/undskyld/person2.svg","img/undskyld/person3.svg"]
     }, {
 
-        "tekst": "APPELFORM",
+        "tekst": "FORM OF RHETORICAL APPEAL",
         "imgcontent": ["img/undskyld/appel1.svg","img/undskyld/appel2.svg","img/undskyld/appel3.svg"]
     }, {
 
-        "tekst": "STIL",
+        "tekst": "STYLE",
         "imgcontent": ["img/undskyld/stil1.svg","img/undskyld/stil2.svg"]
     }, {
 
