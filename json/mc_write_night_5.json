@@ -1,27 +1,27 @@
 {
     "userInterface": {
-        "header": "MC write night - skriv på et Digt på tid",
-        "instruktion": "Jeres gruppe skal skrive en anmeldelse. I skal bruge alle 5 kategorier."
+        "header": "MC write night - write a Review",
+        "instruktion": "Your group is going to write a review. You have to use all 5 categories"
     },
     "kategorier": [{
 
-        "tekst": "EMNE",
-        "imgcontent": ["img/anmeldelse/emne1.svg","img/anmeldelse/emne2.svg","img/anmeldelse/emne3.svg"]
+        "tekst": "SUBJECT",
+        "imgcontent": ["img/anmeldelse/emne1.png","img/anmeldelse/emne2.png","img/anmeldelse/emne3.png"]
     }, {
 
-        "tekst": "HOLDNING",
-        "imgcontent": ["img/anmeldelse/holdning1.svg","img/anmeldelse/holdning2.svg","img/anmeldelse/holdning3.svg"]
+        "tekst": "ATTITUDE",
+        "imgcontent": ["img/anmeldelse/holdning1.png","img/anmeldelse/holdning2.png","img/anmeldelse/holdning3.png"]
     }, {
 
-        "tekst": "AFSENDER",
-        "imgcontent": ["img/anmeldelse/afsender1.svg","img/anmeldelse/afsender2.svg","img/anmeldelse/afsender3.svg"]
+        "tekst": "SENDER",
+        "imgcontent": ["img/anmeldelse/afsender1.png","img/anmeldelse/afsender2.png","img/anmeldelse/afsender3.png"]
     }, {
 
-        "tekst": "BILLEDSPROG",
-        "imgcontent": ["img/anmeldelse/billedsprog1.svg","img/anmeldelse/billedsprog2.svg"]
+        "tekst": "FIGURATIVE LANGUAGE",
+        "imgcontent": ["img/anmeldelse/billedsprog1.png","img/anmeldelse/billedsprog2.png"]
     }, {
 
-        "tekst": "PERSPEKTIVERING",
-        "imgcontent": ["img/anmeldelse/perspektivering1.svg", "img/anmeldelse/perspektivering2.svg", "img/anmeldelse/perspektivering3.svg"]
+        "tekst": "PERSPECTIVE",
+        "imgcontent": ["img/anmeldelse/perspektivering1.png", "img/anmeldelse/perspektivering2.png", "img/anmeldelse/perspektivering3.png"]
     }]
 }

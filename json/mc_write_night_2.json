@@ -1,27 +1,27 @@
 {
     "userInterface": {
-        "header": "MC write night - skriv et debatindlæg",
-        "instruktion": "Jeres gruppe skal skrive et debatindlæg. I skal bruge alle 5 kategorier."
+        "header": "MC write night - write a discussion piece",
+        "instruktion": "Your group is going to write a discussion piece. You have to use all 5 categories."
     },
     "kategorier": [{
 
-        "tekst": "EMNE",
+        "tekst": "SUBJECT",
         "imgcontent": ["img/debat/emne1.svg","img/debat/emne2.svg","img/debat/emne3.svg", "img/debat/emne4.svg", "img/debat/emne5.svg", "img/debat/emne6.svg"]
     }, {
 
-        "tekst": "HOLDNING",
+        "tekst": "ATTITUDE",
         "imgcontent": ["img/debat/holdning1.svg","img/debat/holdning2.svg","img/debat/holdning3.svg","img/debat/holdning4.svg"]
     }, {
 
-        "tekst": "APPELFORM",
+        "tekst": "FORM OF APPEAL",
         "imgcontent": ["img/debat/appel1.svg","img/debat/appel2.svg","img/debat/appel3.svg"]
     }, {
 
-        "tekst": "SPROG",
+        "tekst": "LANGUAGE",
         "imgcontent": ["img/debat/sprog1.svg","img/debat/sprog2.svg", "img/debat/sprog3.svg", "img/debat/sprog4.svg"]
     }, {
 
-        "tekst": "ARGUMENTATION",
+        "tekst": "TYPE OF ARGUMENT",
         "imgcontent": ["img/debat/argument1.svg", "img/debat/argument2.svg", "img/debat/argument3.svg", "img/debat/argument4.svg", "img/debat/argument5.svg"]
     }]
 }
