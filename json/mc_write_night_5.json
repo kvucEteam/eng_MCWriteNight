@@ -6,22 +6,22 @@
     "kategorier": [{
 
         "tekst": "SUBJECT",
-        "imgcontent": ["img/anmeldelse/emne1.png","img/anmeldelse/emne2.png","img/anmeldelse/emne3.png"]
+        "imgcontent": ["img/anmeldelse/emne1.svg","img/anmeldelse/emne2.svg","img/anmeldelse/emne3.svg"]
     }, {
 
         "tekst": "ATTITUDE",
-        "imgcontent": ["img/anmeldelse/holdning1.png","img/anmeldelse/holdning2.png","img/anmeldelse/holdning3.png"]
+        "imgcontent": ["img/anmeldelse/holdning1.svg","img/anmeldelse/holdning2.svg","img/anmeldelse/holdning3.svg"]
     }, {
 
         "tekst": "SENDER",
-        "imgcontent": ["img/anmeldelse/afsender1.png","img/anmeldelse/afsender2.png","img/anmeldelse/afsender3.png"]
+        "imgcontent": ["img/anmeldelse/afsender1.svg","img/anmeldelse/afsender2.svg","img/anmeldelse/afsender3.svg"]
     }, {
 
         "tekst": "FIGURATIVE LANGUAGE",
-        "imgcontent": ["img/anmeldelse/billedsprog1.png","img/anmeldelse/billedsprog2.png"]
+        "imgcontent": ["img/anmeldelse/billedsprog1.svg","img/anmeldelse/billedsprog2.svg"]
     }, {
 
         "tekst": "PERSPECTIVE",
-        "imgcontent": ["img/anmeldelse/perspektivering1.png", "img/anmeldelse/perspektivering2.png", "img/anmeldelse/perspektivering3.png"]
+        "imgcontent": ["img/anmeldelse/perspektivering1.svg", "img/anmeldelse/perspektivering2.svg", "img/anmeldelse/perspektivering3.svg"]
     }]
 }
